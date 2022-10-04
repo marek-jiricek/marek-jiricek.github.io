@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="461.00317mm"
+   height="248.56473mm"
+   viewBox="0 0 461.00316 248.56472"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="katek-factory.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="1374.7677"
+     inkscape:cy="677.40887"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(116.84973,-18.904019)">
+    <g
+       id="g4638"
+       transform="matrix(0.26458333,0,0,0.26458333,37.892114,13.612352)">
+      <g
+         id="g4561">
+        <g
+           id="XMLID_39_">
+          <g
+             id="g4540">
+            <rect
+               id="rect4518"
+               height="35"
+               width="140"
+               style="fill:#e7eced"
+               y="422.5"
+               x="42.5" />
+            <rect
+               id="rect4520"
+               height="40"
+               width="140"
+               style="fill:#e7eced"
+               y="382.5"
+               x="42.5" />
+            <rect
+               id="rect4522"
+               height="35"
+               width="140"
+               style="fill:#e7eced"
+               y="347.5"
+               x="42.5" />
+            <rect
+               id="rect4524"
+               height="80"
+               width="75"
+               style="fill:#757b7f"
+               y="372.5"
+               x="362.5" />
+            <rect
+               id="rect4526"
+               height="40"
+               width="190"
+               style="fill:#31c0d8"
+               y="267.5"
+               x="252.5" />
+            <rect
+               id="rect4528"
+               height="40"
+               width="190"
+               style="fill:#31c0d8"
+               y="192.5"
+               x="252.5" />
+            <polygon
+               id="polygon4530"
+               points="37.5,312.5 167.5,312.5 217.5,312.5 217.5,457.5 182.5,457.5 182.5,422.5 182.5,382.5 182.5,347.5 42.5,347.5 42.5,382.5 42.5,422.5 42.5,457.5 7.5,457.5 7.5,312.5 "
+               style="fill:#99a0a4" />
+            <rect
+               id="rect4532"
+               height="100"
+               width="130"
+               style="fill:#afb6bb"
+               y="212.5"
+               x="37.5" />
+            <path
+               id="path4534"
+               d="m 217.5,457.5 v -145 -155 h 40 220 v 300 z m 145,-5 h 75 v -80 h -75 z m 80,-145 v -40 h -190 v 40 z m 0,-75 v -40 h -190 v 40 z"
+               style="fill:#afb6bb"
+               inkscape:connector-curvature="0" />
+            <polygon
+               id="polygon4536"
+               points="137.5,27.5 287.5,27.5 287.5,67.5 257.5,67.5 257.5,117.5 167.5,117.5 167.5,67.5 137.5,67.5 "
+               style="fill:#afb6bb" />
+            <polygon
+               id="polygon4538"
+               points="167.5,117.5 257.5,117.5 257.5,157.5 217.5,157.5 217.5,312.5 167.5,312.5 167.5,212.5 "
+               style="fill:#e7eced" />
+          </g>
+          <g
+             id="g4558">
+            <path
+               id="path4542"
+               d="M 265,150 V 75 h 30 V 20 H 130 v 55 h 30 V 205 H 30 V 305 H 0 V 465 H 485 V 150 Z M 145,60 V 35 h 135 v 25 h -30 v 50 H 175 V 75 h 62.5 V 60 Z m 30,65 h 75 v 25 H 210 V 305 H 175 Z M 45,220 h 115 v 85 H 45 Z M 175,375 H 50 V 355 H 175 Z M 50,390 h 125 v 25 H 50 Z m 0,60 v -20 h 125 v 20 z m 140,0 V 340 H 35 V 450 H 15 V 320 h 195 v 130 z m 240,-40 h -32.5 v 15 H 430 v 20 h -60 v -65 h 60 z m 40,40 h -25 v -85 h -90 v 85 H 225 V 165 h 245 z"
+               inkscape:connector-curvature="0" />
+            <rect
+               id="rect4544"
+               height="15"
+               width="70"
+               y="240"
+               x="67.5" />
+            <rect
+               id="rect4546"
+               height="15"
+               width="70"
+               y="270"
+               x="67.5" />
+            <path
+               id="path4548"
+               d="M 450,185 H 245 v 55 h 205 z m -15,40 H 260 v -25 h 175 z"
+               inkscape:connector-curvature="0" />
+            <path
+               id="path4550"
+               d="M 450,260 H 245 v 55 h 205 z m -15,40 H 260 v -25 h 175 z"
+               inkscape:connector-curvature="0" />
+            <rect
+               id="rect4552"
+               height="15"
+               width="95"
+               y="335"
+               x="247.5" />
+            <rect
+               id="rect4554"
+               height="15"
+               width="80"
+               y="370"
+               x="247.5" />
+            <rect
+               id="rect4556"
+               height="15"
+               width="30"
+               y="405"
+               x="247.5" />
+          </g>
+        </g>
+      </g>
+      <g
+         id="g4563" />
+      <g
+         id="g4565" />
+      <g
+         id="g4567" />
+      <g
+         id="g4569" />
+      <g
+         id="g4571" />
+      <g
+         id="g4573" />
+      <g
+         id="g4575" />
+      <g
+         id="g4577" />
+      <g
+         id="g4579" />
+      <g
+         id="g4581" />
+      <g
+         id="g4583" />
+      <g
+         id="g4585" />
+      <g
+         id="g4587" />
+      <g
+         id="g4589" />
+      <g
+         id="g4591" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:41.51379395px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:2.59461212"
+       x="114.14727"
+       y="187.50618"
+       id="text4642"><tspan
+         sodipodi:role="line"
+         id="tspan4640"
+         x="114.14727"
+         y="187.50618"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.84371185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:2.59461212">KATEK</tspan><tspan
+         sodipodi:role="line"
+         x="114.14726"
+         y="256.06082"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:54.84371185px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:center;text-anchor:middle;fill:#000000;stroke-width:2.59461212"
+         id="tspan4644">Czech Republic</tspan></text>
+  </g>
+</svg>

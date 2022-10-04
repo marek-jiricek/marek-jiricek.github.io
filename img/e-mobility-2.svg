@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="285.51306mm"
+   height="141.2774mm"
+   viewBox="0 0 285.51307 141.2774"
+   version="1.1"
+   id="svg4652"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="e-mobility-2.svg">
+  <defs
+     id="defs4646" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="683.89348"
+     inkscape:cy="268.53731"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata4649">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(72.746498,52.484841)">
+    <g
+       id="g5267"
+       transform="matrix(-0.26458333,0,0,0.26458333,125.15083,-22.430588)"
+       style="fill:#000000">
+      <g
+         id="g5207"
+         style="fill:#000000">
+        <path
+           id="path5197"
+           d="M 304.304,365.746 H 174.909 c -4.143,0 -7.5,3.358 -7.5,7.5 0,4.142 3.357,7.5 7.5,7.5 h 129.395 c 4.143,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.358,-7.5 -7.5,-7.5 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000" />
+        <path
+           id="path5199"
+           d="m 96.294,306.148 c -31.486,0 -57.102,25.62 -57.102,57.111 0,0.834 0.028,1.661 0.063,2.487 H 15 v -23.421 h 1.266 c 0.052,0 5.679,0 5.679,0 4.143,0 7.5,-3.358 7.5,-7.5 0,-2.941 -1.697,-5.48 -4.162,-6.709 l 7.255,-36.058 c 0.942,-4.795 6.211,-9.768 11.052,-10.433 0.042,-0.006 0.083,-0.012 0.124,-0.018 l 82.229,-12.713 c 8.117,-0.87 16.391,-7.186 19.323,-14.789 l 15.757,-40.86 c 3.707,-9.612 15.995,-18.044 26.298,-18.044 h 128.025 c 3.343,0 8.908,2.353 11.237,4.751 l 45.918,47.279 c 2.662,2.74 7.192,5.693 10.773,7.022 l 33.752,12.525 c 1.923,0.714 4.257,2.412 6.245,4.543 2.823,3.029 7.568,3.195 10.601,0.369 3.028,-2.825 3.193,-7.571 0.368,-10.6 -3.608,-3.869 -7.868,-6.843 -11.995,-8.375 L 388.494,240.19 c -1.487,-0.552 -4.129,-2.273 -5.233,-3.411 L 337.343,189.5 c -5.149,-5.302 -14.605,-9.301 -21.997,-9.301 H 187.32 c -16.616,0 -34.314,12.144 -40.294,27.647 l -15.756,40.86 c -0.918,2.378 -4.438,5.041 -6.975,5.277 -0.15,0.014 -0.301,0.033 -0.45,0.056 l -82.369,12.735 c -11.109,1.563 -21.492,11.383 -23.65,22.357 l -7.684,38.194 H 7.5 c -4.143,0 -7.5,3.358 -7.5,7.5 v 38.421 c 0,4.142 3.357,7.5 7.5,7.5 h 34.441 c 7.403,22.962 28.964,39.625 54.353,39.625 31.497,0 57.121,-25.62 57.121,-57.111 0,-31.492 -25.624,-57.112 -57.121,-57.112 z m 0,99.223 c -23.215,0 -42.102,-18.891 -42.102,-42.111 0,-23.22 18.887,-42.111 42.102,-42.111 23.226,0 42.121,18.891 42.121,42.111 0,23.219 -18.895,42.111 -42.121,42.111 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000" />
+        <path
+           id="path5201"
+           d="m 382.919,306.148 c -31.497,0 -57.121,25.62 -57.121,57.111 0,31.491 25.624,57.111 57.121,57.111 31.497,0 57.121,-25.62 57.121,-57.111 0,-31.491 -25.624,-57.111 -57.121,-57.111 z m 0,99.223 c -23.226,0 -42.121,-18.891 -42.121,-42.111 0,-23.22 18.896,-42.111 42.121,-42.111 23.225,0 42.121,18.891 42.121,42.111 0,23.219 -18.895,42.111 -42.121,42.111 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000" />
+        <path
+           id="path5203"
+           d="m 250.665,267.709 c 0.005,0 105.725,0 105.725,0 4.143,0 7.5,-3.358 7.5,-7.5 0,-4.142 -3.357,-7.5 -7.5,-7.5 H 258.165 V 217.7 c 0,-4.142 -3.357,-7.5 -7.5,-7.5 -4.143,0 -7.5,3.358 -7.5,7.5 v 35.008 h -76.944 c -4.143,0 -7.5,3.358 -7.5,7.5 0,4.142 3.357,7.5 7.5,7.5 0,10e-4 84.439,10e-4 84.444,10e-4 z"
+           inkscape:connector-curvature="0"
+           style="fill:#000000" />
+        <path
+           id="path5205"
+           d="M 378.521,89.149 H 295.906 C 292.267,64.572 271.036,45.651 245.464,45.651 h -30 c -4.143,0 -7.5,3.358 -7.5,7.5 v 12.5 H 164.6 c -4.143,0 -7.5,3.358 -7.5,7.5 0,4.142 3.357,7.5 7.5,7.5 h 43.365 v 31.996 H 164.6 c -4.143,0 -7.5,3.358 -7.5,7.5 0,4.142 3.357,7.5 7.5,7.5 h 43.365 v 12.5 c 0,4.142 3.357,7.5 7.5,7.5 h 30 c 25.572,0 46.803,-18.921 50.442,-43.498 h 82.615 c 39.977,0 72.5,32.523 72.5,72.5 v 137 c 0,4.142 3.357,7.5 7.5,7.5 4.143,0 7.5,-3.358 7.5,-7.5 v -137 c -10e-4,-48.248 -39.252,-87.5 -87.501,-87.5 z m -133.056,43.497 h -22.5 V 60.651 h 15 v 49.496 c 0,4.142 3.357,7.5 7.5,7.5 4.143,0 7.5,-3.358 7.5,-7.5 V 61.442 c 16.261,3.461 28.498,17.929 28.498,35.206 0,19.85 -16.149,35.998 -35.998,35.998 z"
+           inkscape:connector-curvature="0"
+           style="fill:#008000" />
+      </g>
+      <g
+         id="g5209"
+         style="fill:#000000" />
+      <g
+         id="g5211"
+         style="fill:#000000" />
+      <g
+         id="g5213"
+         style="fill:#000000" />
+      <g
+         id="g5215"
+         style="fill:#000000" />
+      <g
+         id="g5217"
+         style="fill:#000000" />
+      <g
+         id="g5219"
+         style="fill:#000000" />
+      <g
+         id="g5221"
+         style="fill:#000000" />
+      <g
+         id="g5223"
+         style="fill:#000000" />
+      <g
+         id="g5225"
+         style="fill:#000000" />
+      <g
+         id="g5227"
+         style="fill:#000000" />
+      <g
+         id="g5229"
+         style="fill:#000000" />
+      <g
+         id="g5231"
+         style="fill:#000000" />
+      <g
+         id="g5233"
+         style="fill:#000000" />
+      <g
+         id="g5235"
+         style="fill:#000000" />
+      <g
+         id="g5237"
+         style="fill:#000000" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.74923229px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff5555;fill-opacity:1;stroke:none;stroke-width:0.79682702"
+       x="-77.427856"
+       y="-13.739127"
+       id="text5271"><tspan
+         sodipodi:role="line"
+         id="tspan5269"
+         x="-77.427856"
+         y="-13.739127"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:50.99692917px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff5555;stroke-width:0.79682702">E-mobility</tspan></text>
+  </g>
+</svg>
